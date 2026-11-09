@@ -3,7 +3,7 @@
 Agenda que conecta vida pessoal á projetos no GitHub.
 
 # Objetivos
--> Planejar e acompanhar ciclos de Sprint; <b>
+-> Planejar e acompanhar ciclos de Sprint; </b>
 -> Integrar informações de repositórios GitHub;
 -> Visualizar commits e atividades de desenvolvimento no calendário.
 
